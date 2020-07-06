@@ -145,5 +145,5 @@ dependencies {
 ```
 3. Click **Sync Project with Gradle Files.**
 
-# 2. Resolve ticket:
+# Resolve ticket:
 Ghi rõ trong comment về tầm ảnh hưởng của ticket đó đến các phần khác.
