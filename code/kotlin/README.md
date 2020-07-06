@@ -114,6 +114,7 @@ fun loadFonts(context:Context, userId:Int, int:FontCallback);
 
 ## 1.3. Quy tắc check đối với kiểu dữ liệu nullable
 Đối với kiểu dữ liệu nullable tuyệt đối không được tùy tiện force not null (sử dụng `!!`), trước khỉ force not null cần phải check null trước
+
 Không tốt 
 ```Kotlin
 var varaible:Int?
