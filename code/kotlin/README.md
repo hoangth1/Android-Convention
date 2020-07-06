@@ -138,9 +138,9 @@ variable?.let{
 Sử dụng các scope function để code clean hơn:
 Cách sử dụng có thể xem tại Xem tại [đây](https://viblo.asia/p/kotlin-scope-function-let-apply-run-also-with-bWrZnNqwZxw)
 
-## 1.5:
+## 1.5: Quy tắc về khoảng trắng
 Sử dụng 4 khoảng trắng thụt vào đầu dòng. Không sử dụng tab
-Xem cách setting Android Studio để sửa ở [đât](https://viblo.asia/p/kotlin-coding-conventions-se-khac-voi-mac-dinh-cua-intelij-idea-nhu-the-nao-ByEZkOJqZQ0)
+Xem cách setting Android Studio để sửa ở [đây](https://viblo.asia/p/kotlin-coding-conventions-se-khac-voi-mac-dinh-cua-intelij-idea-nhu-the-nao-ByEZkOJqZQ0)
 
 
 
