@@ -13,5 +13,5 @@
 ### 4. Sử dụng git hiệu quả
    Xem tại [đây](git/README.md).
 
-### 3. Sử dụng design pattern
-
+### 5. Sử dụng design pattern
+   Xem tại [đây](designpattern/README.md).
