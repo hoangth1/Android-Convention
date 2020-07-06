@@ -127,6 +127,7 @@ Tốt:
 var varaible:Int?
 variable?.let{
   function(it)
+}
 ```
 
 ## 1.4: Sử dụng các scope function
