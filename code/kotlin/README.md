@@ -6,8 +6,8 @@ Sử dụng `/* Code block */` để comment một đoạn code.
 Sử dụng `//` để comment dòng code.
 
 Tất cả các method public nên có Javadoc document để mô tả công việc mà nó thực thi.
-```
-/**Kotlin
+```Kotlin
+/**
  * Hàm sử dụng để chuyển đổi đối tượng từ kiểu dữ liệu bất kì thành String
  */
 fun toString(any:Any) {
