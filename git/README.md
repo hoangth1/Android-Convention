@@ -31,4 +31,5 @@ $ git rebase --continue
    - Link ticket mà pull request dùng để xử lý
    - Pull này dùng để làm gì
    - Tầm ảnh hưởng của code.
+ * Khi có pull request thì cần gửi lên box cho mọi người review, khi nhận được ít nhất 50% thành viên approve thì code sẽ được merge.
 
