@@ -25,3 +25,10 @@
 git add .
 $ git rebase --continue
 ```
+## 3.  Quy định về gửi pull request:
+
+ * Khi gửi pull requset cần ghi vào description những thông tin sau:
+   - Link ticket mà pull request dùng để xử lý
+   - Pull này dùng để làm gì
+   - Tầm ảnh hưởng của code.
+
