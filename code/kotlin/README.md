@@ -122,13 +122,7 @@ function(variable!!)
 ```
 
 Tốt:
-```Kotlin
-var varaible:Int?
-if(variable!=null){
-  function(variable!!)
-}
-```
-Hoặc:
+
 ```Kotlin
 var varaible:Int?
 variable?.let{
