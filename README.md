@@ -10,7 +10,7 @@
 ### 3. Quy tắc viết code Kotlin
    Xem tại [đây](code/kotlin/README.md).      
 
-### 3. Sử dụng git hiệu quả
+### 4. Sử dụng git hiệu quả
    Xem tại [đây](git/README.md).
 
 
