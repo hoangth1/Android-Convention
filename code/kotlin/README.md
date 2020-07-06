@@ -172,7 +172,7 @@ Không nên
 ```
 
 ### 3.2. Đặt tên resources và ID
-Xem tại [đây](https://github.com/LY-NA/AndroidCodingRules/tree/master/general#1-c%C3%A1ch-%C4%91%E1%BA%B7t-t%C3%AAn-files)
+Xem tại [đây](https://github.com/hoangth1/Androi_Kotlin_Convention/tree/master/general)
 
 ### 3.3. Đặt tên strings
 Tên chuối nên bắt đầu bằng một định danh. Ví dụ `registration_email_hint` hoặc `registration_name_hint`. 
