@@ -108,8 +108,8 @@ if (condition)
 ## 1.2. Thứ tham số cho phương thức
 Nếu có, `Context` phải là tham số đầu tiên và `Callback` luôn là tham số cuối cùng.
 
-```java
-public void loadFonts(Context context, int userId, FontCallback callback);
+```kotlin
+fun loadFonts(context:Context, userId:Int, int:FontCallback);
 ```
 
 ## 1.3. Quy tắc check đối với kiểu dữ liệu nullable
@@ -137,6 +137,10 @@ variable?.let{
 ## 1.4: Sử dụng các scope function
 Sử dụng các scope function để code clean hơn:
 Cách sử dụng có thể xem tại Xem tại [đây](https://viblo.asia/p/kotlin-scope-function-let-apply-run-also-with-bWrZnNqwZxw)
+
+## 1.5:
+Sử dụng 4 khoảng trắng thụt vào đầu dòng. Không sử dụng tab
+Xem cách setting Android Studio để sửa ở [đât](https://viblo.asia/p/kotlin-coding-conventions-se-khac-voi-mac-dinh-cua-intelij-idea-nhu-the-nao-ByEZkOJqZQ0)
 
 
 
