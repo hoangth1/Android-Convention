@@ -105,7 +105,7 @@ Không nên
 if (condition)
     body();  // bad!
 ```
-## 1.2. Thứ tham số cho phương thức
+## 1.2. Thứ tự tham số cho phương thức
 Nếu có, `Context` phải là tham số đầu tiên và `Callback` luôn là tham số cuối cùng.
 
 ```kotlin
